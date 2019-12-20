@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* Canculator
+web: java -jar target/Calculator.jar
