@@ -40,7 +40,7 @@
                     <appName>telagrambot1</appName>
                     <processTypes>
                         <worker>
-                            java $JAVA_OPTS -cp target/classes:target/dependency/* Canculator.src.main.java.Main.java
+                            java $JAVA_OPTS -cp target/classes:target/dependency/* Canculator/src/main/java/Main.java
                         </worker>
                     </processTypes>
                 </configuration>
