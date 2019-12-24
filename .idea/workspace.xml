@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1518b5ec-97ef-4ee1-8de5-e0f6b0a8f58e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Canculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,9 +23,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1URRJbqdsrcFlZO3hFENi4kgMpn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -30,10 +47,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -167,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577038564219</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="v1.0">
+      <created>1577038975197</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577038975197</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,5 +214,35 @@
     <MESSAGE value="Hello" />
     <MESSAGE value="v1.0" />
     <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="216" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577040437010">
+      <screen x="0" y="0" width="1522" height="951" />
+    </state>
+    <state x="216" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1522.951@0.0.1522.951" timestamp="1577040437010" />
+    <state x="491" y="261" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577040435736">
+      <screen x="0" y="0" width="1522" height="951" />
+    </state>
+    <state x="491" y="261" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1522.951@0.0.1522.951" timestamp="1577040435736" />
+    <state width="1479" height="149" key="GridCell.Tab.0.bottom" timestamp="1577040482947">
+      <screen x="0" y="0" width="1522" height="951" />
+    </state>
+    <state width="1479" height="149" key="GridCell.Tab.0.bottom/0.0.1522.951@0.0.1522.951" timestamp="1577040482947" />
+    <state width="1479" height="149" key="GridCell.Tab.0.center" timestamp="1577040482946">
+      <screen x="0" y="0" width="1522" height="951" />
+    </state>
+    <state width="1479" height="149" key="GridCell.Tab.0.center/0.0.1522.951@0.0.1522.951" timestamp="1577040482946" />
+    <state width="1479" height="149" key="GridCell.Tab.0.left" timestamp="1577040482946">
+      <screen x="0" y="0" width="1522" height="951" />
+    </state>
+    <state width="1479" height="149" key="GridCell.Tab.0.left/0.0.1522.951@0.0.1522.951" timestamp="1577040482946" />
+    <state width="1479" height="149" key="GridCell.Tab.0.right" timestamp="1577040482947">
+      <screen x="0" y="0" width="1522" height="951" />
+    </state>
+    <state width="1479" height="149" key="GridCell.Tab.0.right/0.0.1522.951@0.0.1522.951" timestamp="1577040482947" />
+    <state x="570" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577040268620">
+      <screen x="0" y="0" width="1522" height="951" />
+    </state>
+    <state x="570" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1522.951@0.0.1522.951" timestamp="1577040268620" />
   </component>
 </project>
