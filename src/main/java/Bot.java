@@ -1,4 +1,4 @@
-import com.vdurmont.emoji.EmojiParser;
+import com.vdurmont.emoji.*;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;

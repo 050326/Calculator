@@ -28,6 +28,11 @@
             <artifactId>telegrambots</artifactId>
             <version>4.4.0.2</version>
         </dependency>
+        <dependency>
+            <groupId>com.vdurmont</groupId>
+            <artifactId>emoji-java</artifactId>
+            <version>5.1.1</version>
+        </dependency>
 
     </dependencies>
     <build>
@@ -40,7 +45,7 @@
                     <appName>telagrambot1</appName>
                     <processTypes>
                         <worker>
-                            java $JAVA_OPTS -cp target/classes:target/dependency/* Canculator/src/main/java/Main.java
+                            java $JAVA_OPTS -cp target/classes:target/dependency/* Canculator/src/main/java/main.java
                         </worker>
                     </processTypes>
                 </configuration>
@@ -67,6 +72,14 @@
                         </configuration>
                     </execution>
                 </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>7</source>
+                    <target>7</target>
+                </configuration>
             </plugin>
         </plugins>
     </build>
