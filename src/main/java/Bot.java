@@ -89,7 +89,7 @@ public class Bot extends TelegramLongPollingBot {
         sendMessage.setReplyMarkup(replyKeyboardMarkup);
 
         // Создаем список строк клавиатуры
-        List<KeyboardRow> keyboard = new ArrayList<>();
+        ArrayList<KeyboardRow> keyboard = new ArrayList<>();
 
         // Первая строчка клавиатуры
         KeyboardRow keyboardFirstRow = new KeyboardRow();
