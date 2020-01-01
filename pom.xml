@@ -45,7 +45,7 @@
                     <programs>
                         <program>
                             <mainClass>com.home.server.TelegramBot</mainClass>
-                            <name>workerBot</name>
+                            <name>telagrambot1</name>
                         </program>
                     </programs>
                 </configuration>
