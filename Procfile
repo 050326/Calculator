@@ -1,1 +1,1 @@
-worker: sh Canculator\src\main\java\Main
+worker: sh target/bin/telagrambot1
