@@ -1,1 +1,1 @@
-worker: sh ./Main
+worker: sh ./Maindd
