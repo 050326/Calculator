@@ -1,1 +1,1 @@
-worker: sh target/bin/telagrambot1
+worker: sh ./Main
