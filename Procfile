@@ -1,1 +1,1 @@
-worker: sh ./Main
+web: sh target/bin/telagrambot1.jar
