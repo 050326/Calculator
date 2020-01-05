@@ -1,1 +1,1 @@
-web: sh target/bin/telagrambot1.jar
+web: sh target/bin/telagrambot1-1.0.jar
