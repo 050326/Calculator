@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war
+bot: java -jar build/libs/telagrambot1-1.0-all.jar
