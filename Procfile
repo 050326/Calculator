@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/telagrambot1
+web: target/universal/stage/bin/Canculator
