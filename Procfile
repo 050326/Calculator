@@ -1,1 +1,1 @@
-bot: java -jar build/libs/telagrambot1-1.0-all.jar
+web: target/universal/stage/bin/telagrambot1
